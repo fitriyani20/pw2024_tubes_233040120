@@ -1,0 +1,16 @@
+.navbar-dark {
+  background-color: rgb(18, 18, 204); /* Warna biru menggunakan format RGB */
+}
+
+.jumbotron {
+  width: 100%;
+  height: 50vh;
+  background-image: url("../img/bg1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center; /* Menyesuaikan posisi gambar */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 5px solid rgb(83, 71, 255);
+}
